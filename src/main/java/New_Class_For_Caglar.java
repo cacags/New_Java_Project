@@ -4,5 +4,6 @@ public class New_Class_For_Caglar {
         System.out.println("Hello Caglar ");
         
         //Hello
+        //Hello 2
     }
 }
